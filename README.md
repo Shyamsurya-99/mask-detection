@@ -1,5 +1,5 @@
 
-# Face Mask Detection
+# Face Mask Detection done by G SHYAM SURYA
 Face masks are crucial in minimizing the propagation of Covid-19, and are highly recommended or even obligatory in many situations.
  In this project, we develop a pipeline to detect unmasked faces in images. This can, for example, be used to alert people that do not wear
  a mask when entering a building.
